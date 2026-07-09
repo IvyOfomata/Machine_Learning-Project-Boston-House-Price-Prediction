@@ -1,4 +1,4 @@
-# Machine_Learning-Project-Boston-House-Price-Prediction
+# Machine Learning Project-Boston House Price Prediction
 An end-to-end regression modeling project predicting real estate valuations with advanced outlier preprocessing
 
 Key Modeling Methodology
